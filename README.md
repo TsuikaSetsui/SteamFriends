@@ -16,6 +16,7 @@
 
 | Avatar                                                                            | Name           | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:---------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
+| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Dreamless Alice      | [76561199482221250](https://steamcommunity.com/profiles/76561199482221250/) | ❌           | 2022-08-14 01:06:38 |          | 2025-08-30 23:42:20 |
 | ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS      | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2025-08-30 23:42:20 |
 | ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT           | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2025-08-30 23:42:20 |
 | ![](https://avatars.steamstatic.com/13149c88f0dfe9a1e2cd3e90f4110a5dc0511c39.jpg) | 玟琤             | [76561199575208710](https://steamcommunity.com/profiles/76561199575208710/) | ✅           | 2024-05-29 12:39:14 |          |                     |
